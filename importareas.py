@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import areas
 
 print(areas.triangle(3,3))
