@@ -1,0 +1,293 @@
+    1  ip address
+    2  ipconfig
+    3  ifconfig
+    4  ip address
+    5  ping 192.168.1.15
+    6  sudo -i
+    7  su -
+    8  reboot
+    9  su -
+   10  passw
+   11  passwd
+   12  ls -la /usr/share/lxc/templates/
+   13  python3
+   14  ll
+   15  cd Desktop/
+   16  ll
+   17  cd python_google/
+   18  ll
+   19  vim rearrange.py 
+   20  python3
+   21  cat rearrange.py 
+   22  python3
+   23  cat rearrange.py 
+   24  python3
+   25  vim rearrange.py 
+   26  python3
+   27  cat rearrange.py 
+   28  code .
+   29  python3
+   30  /bin/python3 /home/luciano/Desktop/python_google/Using-Python-to-Interact-with-files-_-google/rearrange.py
+   31  cd Desktop/python_google/Using-Python-to-Interact-with-files-_-google/
+   32  ll
+   33  cd unit_testing/
+   34  ll
+   35  vim rearrange_test.py 
+   36  ./rearrange_test.py 
+   37  vim rearrange.py 
+   38  ./rearrange_test.py 
+   39  cat rearrange_test.py 
+   40  cat rearrange.py 
+   41  ./rearrange_test.py 
+   42  vim rearrange.py python3
+   43  ll
+   44  python3
+   45  ll
+   46  vim findLetters.py
+   47  chmod +x findLetters.py 
+   48  ll
+   49  ./findLetters.py 
+   50  vim findLetters.py
+   51  ./findLetters.py 
+   52  cat rearrange_test.py 
+   53  ll
+   54  cp findLetters.py findLetters_test.py
+   55  vim findLetters_test.py 
+   56  ./findLetters_test.py 
+   57  vim findLetters_test.py 
+   58  ./findLetters_test.py 
+   59  cd Desktop/python_google/
+   60  ll
+   61  git clone git@github.com:lswebdevelops/Using-Python-to-Interact-with-files-_-google.git
+   62  ll
+   63  git clone https://github.com/lswebdevelops/Using-Python-to-Interact-with-files-_-google.git
+   64  ll
+   65  cd us
+   66  cd Using-Python-to-Interact-with-files-_-google/
+   67  ll
+   68  cp ../rearrange.py .
+   69  code .
+   70  ll
+   71  mkdir unit_testing
+   72  cp rearrange.py unit_testing/
+   73  cd unit_testing/
+   74  ll
+   75  vim rearrange_test.py
+   76  sudo chmod +x rearrange_test.py 
+   77  vim rearrange_test.py
+   78  ./rearrange_test.py 
+   79  vim rearrange_test.py
+   80  ./rearrange_test.py 
+   81  ll
+   82  cat rearrange_test.py 
+   83  ./rearrange_test.py 
+   84  vim rearrange_test.py
+   85  ./rearrange_test.py 
+   86  pwd
+   87  ll
+   88  cat rearrange.py 
+   89  cat rearrange_test.py 
+   90  ./rearrange_test.py 
+   91  git status
+   92  git commit -m "creating a unit test"
+   93  git push
+   94  vim rearrange_test.py
+   95  ./rearrange_test.py 
+   96  cat rearrange_test.py 
+   97  ./rearrange_test.py 
+   98  cat -n rearrange_test.py 
+   99  vim rearrange.py 
+  100  ./rearrange_test.py 
+  101  cat rearrange.py 
+  102  cat rearrange_test.py 
+  103  vim rearrange_test.py
+  104  ./rearrange_test.py 
+  105  cat rearrange.py PS1=$
+  106  ll
+  107  ./rearrange_test.py 
+  108  cd Desktop/python_google/Using-Python-to-Interact-with-files-_-google/
+  109  ll
+  110  cd unit_testing/
+  111  ll
+  112  screen -ls
+  113  ll
+  114  vim charfreq.py
+  115  chmod + charfreq.py 
+  116  ll
+  117  chmod +x charfreq.py 
+  118  ./charfreq.py 
+  119  cat charfreq.py 
+  120  ll
+  121  python3
+  122  vim charfreq.py
+  123  python3
+  124  cat charfreq.py 
+  125  PS1=.>
+  126  PS1='.>'
+  127  ll
+  128  vim validation.py ; chmod +x validation.py ; ./validation.py
+  129  ./validation.py 
+  130  ./validation.py  lkasjdfk
+  131  vim validation.py 
+  132  python3
+  133  vim validation.py 
+  134  cat validation
+  135  cat validation.py 
+  136  pytno3
+  137  python3
+  138  PS1='_linux_.>'
+  139  vim charfreq.py 
+  140  python3
+  141  vim  character2.txt
+  142  python3
+  143  vim validation.py 
+  144  python3
+  145  ll
+  146  cd Desktop/python_google/Using-Python-to-Interact-with-files-_-google/unit_testing/
+  147  ll
+  148  PS1="\w\u->"
+  149  PS1="\w->"
+  150  PS1="\u->"
+  151  cd 
+  152  cd -
+  153  ll
+  154  vim validation.py 
+  155  cp validation.py validation_copy.py
+  156  vim validation_copy.py 
+  157  ll
+  158  ./validation_copy.py 
+  159  vim validation_copy.py 
+  160  ./validation_copy.py 
+  161  vim validation_copy.py 
+  162  ll
+  163  mv validation.py validations.py
+  164  ./validation_copy.py 
+  165  cat -n validation_copy.py 
+  166  vim validation_copy.py 
+  167  ./validation_copy.py 
+  168  cat validation_copy.py 
+  169  cat validations.py 
+  170  ./validations.py 
+  171  python3
+  172  ll
+  173  cat charfreq.py 
+  174  ./charfreq.py 
+  175  python3
+  176  ll
+  177  vim emails.py
+  178  chmod +x emails.py 
+  179  ./emails.py 
+  180  vim maillist.csv
+  181  python3
+  182  cd ..
+  183  ll
+  184  pwd
+  185  ls -lart
+  186  cd unit_testing/
+  187  ll
+  188  cat charfreq.py 
+  189  cat rearrange.py 
+  190  ll
+  191  cat rearrange_test.py 
+  192  cat validations.py
+  193  cat validation_copy.py
+  194  ll
+  195  cat maillist.csv 
+  196  vim maillist.csv 
+  197  vim 
+  198  cat emails.py 
+  199  vim emailHandling.py
+  200  chmod +x emailHandling.py 
+  201  ./emailHandling.py 
+  202  vim emailHandling.py
+  203  ./emailHandling.py 
+  204  ll
+  205  vim emailHandling.py
+  206  ./emailHandling.py 
+  207  ll
+  208  cat emailHandling.py 
+  209  cat emails.py 
+  210  vim maillist.csv 
+  211  ll
+  212  ./emails.py adiles rizzon
+  213  python3 emails.py Blossom Gill
+  214  cat maillist.csv 
+  215  mv maillist.csv user_emails.csv
+  216  python3 emails.py Blossom Gill
+  217  pwd
+  218  vim emails.py 
+  219  python3 emails.py Blossom Gill
+  220  vim emails.py 
+  221  python3 emails.py Blossom Gill
+  222  ll
+  223  cd ..
+  224  ll
+  225  cd ..
+  226  ll
+  227  cd Using-Python-to-Interact-with-files-_-google/
+  228  ll
+  229  git status
+  230  cd .
+  231  cd ..
+  232  ll
+  233  PS1="\u\w->"
+  234  ll
+  235  pwd
+  236  cat spider.txt | tr '''\n'|sort | uniq -c | sort -nr | head
+  237  echo "the up spider and rain itsy climbed cam bitsy waterspout" > spider.txt
+  238  cat spider.txt | tr '''\n'|sort | uniq -c | sort -nr | head
+  239  cat spider.txt | tr ' ' '\n'|sort | uniq -c | sort -nr | head
+  240  cat spider.txt 
+  241  echo "the itsy bitsy spider climbe up the waterspout then cam the water and clean the spider out"> spider.txt 
+  242  cat spider.txt | tr ' ' '\n'|sort | uniq -c | sort -nr | head
+  243  echo "the itsy bitsy spider climbed up the waterspout then came the water and cleaned the spider out"> spider.txt 
+  244  cat spider.txt | tr ' ' '\n'|sort | uniq -c | sort -nr | head
+  245  ll
+  246  pwd
+  247  cd Using-Python-to-Interact-with-files-_-google/
+  248  ll
+  249  git status
+  250  git cd 
+  251  ll
+  252  cd 
+  253  ll
+  254  ssh-keygen -t rsa -b 4096 -C "sardanhaluciano9690@gmail.com"
+  255  eval $(ssh-angent -s)
+  256  eval $(ssh-agent -s)
+  257  ssh-add ~/.ssh/id_rsa
+  258  cat /home/luciano/.ssh/id_rsa
+  259  cat /home/luciano/.ssh/id_rsa.pub 
+  260  cd -
+  261  ll
+  262  git status
+  263  git pull
+  264  git checkout other
+  265  git branch other
+  266  git checkout
+  267  cd ..
+  268  ll
+  269  rm -rf Using-Python-to-Interact-with-files-_-google/
+  270  git clone https://github.com/lswebdevelops/Using-Python-to-Interact-with-files-_-google.git
+  271  ll
+  272  cd Using-Python-to-Interact-with-files-_-google/
+  273  ll
+  274  mkdir basic_linux_commands
+  275  cd basic_linux_commands/
+  276  ll
+  277  vim capitalize.py
+  278  cat -n capitalize.py 
+  279  chmod +x capitalize.py 
+  280  ll
+  281  vim capitalize.py 
+  282  vim haiku.txt
+  283  cat haiku.txt | ./capitalize.py 
+  284  cp capitalize.py capitalize2.py 
+  285  ll
+  286  vim capitalize
+  287  vim capitalize2.py 
+  288  cat haiku.txt | ./capitalize2.py 
+  289  rm capitalize2.py 
+  290  ll
+  291  cat capitalize.py
+  292  cat haiku.txt
+  293  history | less > history.txt
